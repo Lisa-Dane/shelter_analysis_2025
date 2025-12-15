@@ -8,7 +8,6 @@ Analysis of Austin animal shelter intake data (2013-2025) using MongoDB for big 
 
 - shelter_analysis.ipynb - Complete analysis notebook
 - shelter_intakes_data.csv - Raw dataset (173K+ rows)
-- requirements.txt - Python dependencies
 - README.md - This file
 
 Note: config.yaml is NOT included (contains database credentials). Create your own using the template below.
